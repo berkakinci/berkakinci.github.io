@@ -1,0 +1,15 @@
+<map id="edu.wpi.first.wpilibj.DriverStation.isTest" name="edu.wpi.first.wpilibj.DriverStation.isTest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="444,103,615,143"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a10f02d92c84e969b02bcbbeca9071afc" title=" " alt="" coords="225,37,396,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="444,100,381,81,382,76,446,95"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_robot_base.html#a6f538235781c47df7a3aeff753d7acac" title=" " alt="" coords="225,103,396,143"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="429,126,397,126,397,120,429,120"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_robot_state.html#a1b390185aef075a2fcb778dbfa58034a" title=" " alt="" coords="225,168,396,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="446,151,382,170,381,165,444,146"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_robot_base.html#aaf62daecd479b93c610615fd4f6bfb20" title=" " alt="" coords="5,5,177,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="209,46,177,41,178,36,210,40"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_robot_state.html#ae53594ba97e60f893c266bf7881dcee2" title=" " alt="" coords="5,71,177,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="210,76,178,81,177,75,209,70"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_motor_safety.html#a378effe2109461036a883da6e4a86675" title=" " alt="" coords="6,168,176,209"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="210,191,176,191,176,186,210,186"/>
+</map>

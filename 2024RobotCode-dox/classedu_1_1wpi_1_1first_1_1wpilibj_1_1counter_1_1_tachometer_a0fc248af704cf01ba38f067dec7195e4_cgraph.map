@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.counter.Tachometer.getRevolutionsPerMinute" name="edu.wpi.first.wpilibj.counter.Tachometer.getRevolutionsPerMinute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,244,79"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1counter_1_1_tachometer.html#a2252fd19dc1d3877a6906d01984d65b7" title=" " alt="" coords="292,39,535,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,56,276,56,276,62,244,62"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1counter_1_1_tachometer.html#ac50d24a7d189212da491e2829b162f01" title=" " alt="" coords="583,5,812,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="535,42,567,38,568,44,536,47"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1counter_1_1_tachometer.html#ad84f9fe6ebf7cff39f1a27956a540548" title=" " alt="" coords="607,71,789,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="536,70,591,76,591,82,535,75"/>
+</map>

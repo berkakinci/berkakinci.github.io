@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.simulation.XboxControllerSim.setRightStickButton" name="edu.wpi.first.wpilibj.simulation.XboxControllerSim.setRightStickButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,257,46"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_generic_h_i_d_sim.html#a59a64957c20d3ce400fa84e9957b4252" title=" " alt="" coords="305,5,505,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,23,289,23,289,28,257,28"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_driver_station_sim.html#a37f2d3995518ba4d1ca2f6656bc8c687" title=" " alt="" coords="553,5,782,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="506,23,537,23,537,28,506,28"/>
+</map>

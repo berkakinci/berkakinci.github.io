@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.simulation.PneumaticsBaseSim.getForType" name="edu.wpi.first.wpilibj.simulation.PneumaticsBaseSim.getForType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="307,39,519,79"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_double_solenoid_sim.html#a1ba1fd0eb2b7f5eaad3d0156b674a21f" title=" " alt="" coords="5,5,259,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,47,259,43,260,38,292,42"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_solenoid_sim.html#a23ad42cf1939ec6f5c9ab4ad321345fd" title=" " alt="" coords="32,71,232,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="292,75,233,82,232,77,291,70"/>
+</map>

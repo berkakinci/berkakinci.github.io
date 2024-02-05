@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.Counter.getPeriod" name="edu.wpi.first.wpilibj.Counter.getPeriod">
+<area shape="rect" id="Node000001" title=" " alt="" coords="550,35,753,75"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_ultrasonic.html#a9a9aff88f201efda3935717cfa957b0a" title=" " alt="" coords="278,5,495,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="534,45,495,40,496,35,535,39"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter.html#ac4be7072d53ba9c53dd3e360a9531703" title=" " alt="" coords="271,70,502,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="535,70,503,73,502,68,534,65"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_ultrasonic.html#a207f300132f4f237d643faf9c3f75658" title=" " alt="" coords="5,5,223,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,28,223,28,223,23,262,23"/>
+</map>

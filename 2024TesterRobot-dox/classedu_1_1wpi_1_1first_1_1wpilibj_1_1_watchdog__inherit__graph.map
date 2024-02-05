@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.Watchdog" name="edu.wpi.first.wpilibj.Watchdog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,79,217,105"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,85,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,40,109,77,105,81,67,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="109,5,282,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,44,134,81,131,77,170,40"/>
+</map>

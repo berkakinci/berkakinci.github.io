@@ -1,0 +1,13 @@
+<map id="edu.wpi.first.wpilibj.DutyCycle.getFPGAIndex" name="edu.wpi.first.wpilibj.DutyCycle.getFPGAIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="514,71,678,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_duty_cycle.html#a94ab9fca575af2aa8ffe06706cd09ed8" title=" " alt="" coords="284,5,449,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,69,440,49,441,44,509,63"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_duty_cycle_sim.html#a22c962cf4aceae4a455ae5aa058cbb9b" title=" " alt="" coords="267,71,466,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="498,94,466,94,466,88,498,88"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_duty_cycle_encoder.html#af8553932de2a0f3d972875572c0a2595" title=" " alt="" coords="270,136,463,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="509,119,441,138,440,133,507,113"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_duty_cycle_sim.html#a6e47635847cd23d08395fd5299f15716" title=" " alt="" coords="5,37,219,78"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="251,79,219,74,220,69,252,73"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_duty_cycle_sim.html#a32e7a257be01dad1052eadd726fb8596" title=" " alt="" coords="12,103,212,143"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="251,108,213,113,212,108,251,103"/>
+</map>

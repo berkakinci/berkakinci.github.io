@@ -1,0 +1,19 @@
+<map id="edu.wpi.first.wpilibj.simulation.GenericHIDSim.setPOVCount" name="edu.wpi.first.wpilibj.simulation.GenericHIDSim.setPOVCount">
+<area shape="rect" id="Node000001" title=" " alt="" coords="297,235,496,275"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_joystick_sim.html#af7b5d6a288a37fc8a7c95f5db7d8ad51" title=" " alt="" coords="27,5,227,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="376,222,355,184,326,141,290,98,247,61,225,49,227,44,250,57,293,94,330,137,359,181,381,219"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_joystick_sim.html#a67efee935f2751b33146cfe5db90648f" title=" " alt="" coords="27,71,227,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="366,225,314,174,282,149,247,127,220,114,222,109,250,122,285,144,317,170,369,221"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_p_s4_controller_sim.html#ae4068fb329e73d35cb1cc4287b291109" title=" " alt="" coords="10,136,244,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="338,230,248,192,210,180,211,175,250,187,340,225"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_p_s4_controller_sim.html#a68d6b639de950b029f0ba0aeb56a5b22" title=" " alt="" coords="10,201,244,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="281,243,244,239,245,234,281,238"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_p_s5_controller_sim.html#acc8f674aec65044288906963d9de0877" title=" " alt="" coords="10,267,244,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="281,271,245,276,244,270,281,266"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_p_s5_controller_sim.html#acce7c45de82d8ab53466c2a6b14759bf" title=" " alt="" coords="10,332,244,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="339,285,250,322,211,334,209,329,248,316,337,280"/>
+<area shape="rect" id="Node000008" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_xbox_controller_sim.html#a659d73bbbab888fc8ac0075f741594a1" title=" " alt="" coords="5,397,249,438"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="369,289,317,339,285,365,250,387,222,399,220,394,247,382,281,360,313,335,365,285"/>
+<area shape="rect" id="Node000009" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_xbox_controller_sim.html#af44f2ef1bd17ec94a74cb324a8a7b46c" title=" " alt="" coords="5,463,249,503"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="381,290,359,328,330,372,293,415,250,452,227,464,225,460,247,447,289,411,326,369,355,325,376,288"/>
+</map>

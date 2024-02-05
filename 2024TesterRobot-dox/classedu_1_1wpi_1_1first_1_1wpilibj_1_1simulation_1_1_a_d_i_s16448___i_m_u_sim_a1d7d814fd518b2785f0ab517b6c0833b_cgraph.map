@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.simulation.ADIS16448_IMUSim.ADIS16448_IMUSim" name="edu.wpi.first.wpilibj.simulation.ADIS16448_IMUSim.ADIS16448_IMUSim">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,275,79"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_sim_device_sim.html#a18ff83cec047ed1551deb66bde7147da" title=" " alt="" coords="325,5,524,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,41,309,37,309,42,275,46"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_a_d_i_s16448___i_m_u.html#a9fa5c9167592f300a3f6a661213fb652" title=" " alt="" coords="323,71,526,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,72,308,75,307,81,275,77"/>
+</map>

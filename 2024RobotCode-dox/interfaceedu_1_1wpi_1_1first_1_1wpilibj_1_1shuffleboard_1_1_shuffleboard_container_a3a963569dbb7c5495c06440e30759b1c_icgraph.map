@@ -1,0 +1,11 @@
+<map id="edu.wpi.first.wpilibj.shuffleboard.ShuffleboardContainer.add" name="edu.wpi.first.wpilibj.shuffleboard.ShuffleboardContainer.add">
+<area shape="rect" id="Node000001" title=" " alt="" coords="287,104,498,145"/>
+<area shape="rect" id="Node000002" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1shuffleboard_1_1_shuffleboard_container.html#a327ab9b92a66593718b210b3bf61309a" title=" " alt="" coords="16,5,228,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,100,238,62,200,49,202,44,240,56,334,95"/>
+<area shape="rect" id="Node000003" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1shuffleboard_1_1_shuffleboard_container.html#a13ed1dc514efb86ffbfe674cf2815bdd" title=" " alt="" coords="16,71,228,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,112,228,107,228,101,272,107"/>
+<area shape="rect" id="Node000004" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1shuffleboard_1_1_shuffleboard_container.html#aec96d3fcdedb523884b0c3170c6910b2" title=" " alt="" coords="12,136,232,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="272,141,233,146,232,141,271,136"/>
+<area shape="rect" id="Node000005" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1shuffleboard_1_1_shuffleboard_container.html#afa5d172e0446a73f74eabc994c221320" title=" " alt="" coords="5,201,239,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="332,154,240,191,201,203,200,198,238,186,330,149"/>
+</map>

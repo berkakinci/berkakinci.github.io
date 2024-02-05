@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.smartdashboard.MechanismObject2d" name="edu.wpi.first.wpilibj.smartdashboard.MechanismObject2d">
+<area shape="rect" id="Node000001" title=" " alt="" coords="160,39,393,79"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1smartdashboard_1_1_mechanism_ligament2d.html" title=" " alt="" coords="441,5,674,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="408,41,440,37,441,42,409,46"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1smartdashboard_1_1_mechanism_root2d.html" title=" " alt="" coords="441,71,674,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="409,71,441,75,440,80,408,77"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,46,112,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,56,159,56,159,62,127,62"/>
+</map>

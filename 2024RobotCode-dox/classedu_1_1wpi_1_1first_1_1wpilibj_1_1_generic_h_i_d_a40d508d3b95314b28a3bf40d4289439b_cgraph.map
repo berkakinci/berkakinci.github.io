@@ -1,0 +1,11 @@
+<map id="edu.wpi.first.wpilibj.GenericHID.axisLessThan" name="edu.wpi.first.wpilibj.GenericHID.axisLessThan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,187,107"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#a561e13532e9305a057a3b02cc655833c" title=" " alt="" coords="235,37,416,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,73,219,69,220,74,187,78"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#af0b067c76cbb79f54d7f475e88fcfed2" title=" " alt="" coords="464,95,645,135"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="187,90,449,106,449,111,187,95"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#af9606114345715ee1577c2b0c66a070c" title=" " alt="" coords="469,5,640,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,42,453,37,454,42,417,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="410,76,456,88,455,93,408,81"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="511,95,509,85,516,76,532,70,555,68,579,70,594,77,592,82,578,76,555,73,533,75,520,80,515,86,517,93"/>
+</map>

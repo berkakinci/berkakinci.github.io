@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.DutyCycleEncoder.get" name="edu.wpi.first.wpilibj.DutyCycleEncoder.get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,170,96"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter.html#aa2e326e246a1f4dba1ff168b798996fd" title=" " alt="" coords="218,5,421,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,53,249,33,250,38,171,58"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_duty_cycle.html#a979edd0343d9d2012211184c31f64c0f" title=" " alt="" coords="237,55,402,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,73,222,73,222,78,170,78"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a8446c52983088af3fba8adc2b0d3df8c" title=" " alt="" coords="234,121,405,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,94,231,113,229,118,161,99"/>
+</map>

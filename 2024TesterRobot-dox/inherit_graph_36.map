@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html" title=" " alt="" coords="5,128,211,154"/>
+<area shape="rect" id="Node000001" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_joystick.html" title=" " alt="" coords="259,5,444,31"/>
+<area shape="poly" id="edge146_Node000000_Node000001" title=" " alt="" coords="136,116,191,78,258,41,290,29,292,34,260,46,194,83,139,121"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_p_s4_controller.html" title=" " alt="" coords="271,55,432,96"/>
+<area shape="poly" id="edge147_Node000000_Node000002" title=" " alt="" coords="172,121,272,94,274,99,174,126"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_p_s5_controller.html" title=" " alt="" coords="271,121,432,161"/>
+<area shape="poly" id="edge148_Node000000_Node000003" title=" " alt="" coords="226,138,270,138,270,144,226,144"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_stadia_controller.html" title=" " alt="" coords="265,186,438,227"/>
+<area shape="poly" id="edge149_Node000000_Node000004" title=" " alt="" coords="174,156,274,183,272,188,172,161"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_xbox_controller.html" title=" " alt="" coords="268,251,435,292"/>
+<area shape="poly" id="edge150_Node000000_Node000005" title=" " alt="" coords="141,161,195,198,260,236,288,248,286,253,257,241,192,203,138,165"/>
+</map>

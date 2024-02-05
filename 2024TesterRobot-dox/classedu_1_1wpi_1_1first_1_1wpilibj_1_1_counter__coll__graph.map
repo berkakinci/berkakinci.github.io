@@ -1,0 +1,12 @@
+<map id="edu.wpi.first.wpilibj.Counter" name="edu.wpi.first.wpilibj.Counter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="515,80,698,106"/>
+<area shape="rect" id="Node000002" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter_base.html" title=" " alt="" coords="161,5,373,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,32,492,61,556,77,555,82,491,66,354,37"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="230,55,305,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="320,69,515,83,515,89,320,74"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,135,112,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,136,135,136,515,98,515,103,136,141,127,142"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_digital_source.html" title=" " alt="" coords="181,155,354,196"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="127,154,181,161,180,167,127,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="369,180,430,177,491,164,519,152,546,136,589,104,592,108,549,141,522,157,492,169,431,182,370,186"/>
+</map>

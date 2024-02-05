@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.simulation.SingleJointedArmSim.wouldHitUpperLimit" name="edu.wpi.first.wpilibj.simulation.SingleJointedArmSim.wouldHitUpperLimit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="305,39,569,79"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_single_jointed_arm_sim.html#aabc01fe5350000d46b805a998c5149b5" title=" " alt="" coords="5,5,257,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,46,257,42,257,37,289,40"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_single_jointed_arm_sim.html#ac20d79a03171f071d519f7d2a486749e" title=" " alt="" coords="31,71,231,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,77,232,83,231,78,289,72"/>
+</map>

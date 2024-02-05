@@ -1,0 +1,12 @@
+<map id="frc.robot.Robot.robotInit" name="frc.robot.Robot.robotInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,41,165,67"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1smartdashboard_1_1_sendable_chooser.html#a4b48b0a32e339163e9fd58279a2d82bf" title=" " alt="" coords="494,5,727,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,38,212,19,280,13,349,10,478,13,478,18,349,16,281,18,213,24,129,43"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1smartdashboard_1_1_smart_dashboard.html#a8bfbadc54bdb86e802e4510cb8f09b05" title=" " alt="" coords="213,33,446,74"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,51,197,51,197,56,165,56"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1smartdashboard_1_1_sendable_chooser.html#aeb02795b957efa2924cab361986cdd94" title=" " alt="" coords="213,99,446,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,64,237,92,235,97,135,70"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="405,96,445,83,540,49,542,55,447,88,407,101"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1smartdashboard_1_1_sendable_chooser.html#a6151534a0d068f8518995ba231021c6b" title=" " alt="" coords="494,99,727,139"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="446,116,478,116,478,122,446,122"/>
+</map>

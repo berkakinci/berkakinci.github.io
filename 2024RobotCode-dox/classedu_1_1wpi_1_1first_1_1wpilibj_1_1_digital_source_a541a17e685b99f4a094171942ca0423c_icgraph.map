@@ -1,0 +1,15 @@
+<map id="edu.wpi.first.wpilibj.DigitalSource.getAnalogTriggerTypeForRouting" name="edu.wpi.first.wpilibj.DigitalSource.getAnalogTriggerTypeForRouting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="266,169,522,210"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter.html#a3ce037c671f43c48dd6d83f594848fb0" title=" " alt="" coords="10,5,213,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="357,161,294,110,216,61,188,49,190,44,219,57,297,106,360,157"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_d_m_a.html#ac6abd6ecf13e6ab66c86b1cf25a40c24" title=" " alt="" coords="17,71,206,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="324,166,217,127,179,114,181,109,219,122,325,161"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_encoder.html#a3a51f9827ccd6f88e57966d2b8df3fb7" title=" " alt="" coords="9,136,214,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,175,214,171,215,166,250,170"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter.html#ae63099da0d855dc72efd64c7579730c7" title=" " alt="" coords="10,201,213,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="251,209,214,213,213,207,250,203"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_s_p_i.html#a2a400b38911a94aa2eb7aefbeb4f7162" title=" " alt="" coords="17,267,206,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="324,218,219,256,181,269,179,264,217,251,322,213"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_synchronous_interrupt.html#a80059d1bb8f4bca30ac1c01a491d5232" title=" " alt="" coords="5,332,218,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="360,222,297,272,219,321,190,334,188,329,216,317,294,268,357,218"/>
+</map>

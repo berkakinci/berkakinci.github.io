@@ -1,0 +1,15 @@
+<map id="edu.wpi.first.wpilibj.motorcontrol.PWMVictorSPX.PWMVictorSPX" name="edu.wpi.first.wpilibj.motorcontrol.PWMVictorSPX.PWMVictorSPX">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,136,219,177"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_p_w_m_motor_controller.html#ad3239e59cd2d8d8c95ff34126311bc76" title=" " alt="" coords="267,5,479,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,133,196,95,265,57,282,49,284,54,268,61,199,99,143,138"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_p_w_m.html#a9f540c857b04d827341ef78e5b1124fe" title=" " alt="" coords="277,71,469,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,133,273,113,275,118,197,138"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_p_w_m.html#ab167b1170302bc64d8b4d53da6814931" title=" " alt="" coords="277,136,469,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="219,154,262,154,262,159,219,159"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_p_w_m.html#ae75066ad7c5a0f0ad8c71211026479dc" title=" " alt="" coords="277,201,469,242"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="197,175,275,194,273,200,195,180"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_p_w_m.html#aed7b74e2db9a607f466c45dc605751c5" title=" " alt="" coords="277,267,469,307"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="143,175,199,213,268,251,284,258,282,263,265,256,196,218,140,180"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_p_w_m.html#ad77506085116c8e7ec1b168438a9f573" title=" " alt="" coords="527,5,718,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,23,511,23,511,28,479,28"/>
+</map>

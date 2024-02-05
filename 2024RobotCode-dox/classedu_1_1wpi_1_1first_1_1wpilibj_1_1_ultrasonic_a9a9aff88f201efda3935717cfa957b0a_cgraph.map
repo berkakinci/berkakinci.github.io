@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.Ultrasonic.getRangeInches" name="edu.wpi.first.wpilibj.Ultrasonic.getRangeInches">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,223,79"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter.html#a39f1ad64ca7c0f208c1e9f8c46c2ca8d" title=" " alt="" coords="274,5,477,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,42,258,38,259,43,223,48"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_ultrasonic.html#ad152fff690704203242141d5350dd926" title=" " alt="" coords="271,71,480,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,70,255,74,255,79,223,75"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter.html#aa2e326e246a1f4dba1ff168b798996fd" title=" " alt="" coords="528,78,731,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="480,88,513,88,513,94,480,94"/>
+</map>

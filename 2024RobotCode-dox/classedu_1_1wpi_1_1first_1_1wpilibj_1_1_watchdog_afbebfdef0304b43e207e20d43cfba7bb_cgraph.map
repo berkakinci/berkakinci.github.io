@@ -1,0 +1,14 @@
+<map id="edu.wpi.first.wpilibj.Watchdog.reset" name="edu.wpi.first.wpilibj.Watchdog.reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,46,233,72"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_watchdog.html#aacdc6efc6b79902319f7b07344298c49" title=" " alt="" coords="281,46,517,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,56,265,56,265,62,233,62"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_tracer.html#a7af804d6dc75797c90b3701efe9917fb" title=" " alt="" coords="565,8,769,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="517,43,549,39,550,44,517,48"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_timer.html#a554f331c3b4645ee279bab8974cf21af" title=" " alt="" coords="825,71,1015,111"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="517,64,810,82,809,87,517,69"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_tracer.html#a8ec8917a1e56d3d57363532d1d6fd4bd" title=" " alt="" coords="817,5,1023,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="770,25,801,24,801,30,770,30"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_robot_controller.html#a0768221aed0858ad185f14c8218300e0" title=" " alt="" coords="1071,39,1242,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1024,38,1056,42,1055,47,1023,43"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="1015,75,1055,70,1055,75,1016,81"/>
+</map>

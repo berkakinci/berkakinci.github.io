@@ -1,0 +1,18 @@
+<map id="edu.wpi.first.wpilibj.StadiaController.getRightStickButtonPressed" name="edu.wpi.first.wpilibj.StadiaController.getRightStickButtonPressed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,251,103"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#a097c775f0ef764796523a65f8f3b688d" title=" " alt="" coords="299,63,480,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,80,283,80,283,86,251,86"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#a77f3feaa9b70759aa7e26c20bec4bec2" title=" " alt="" coords="538,29,719,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,68,522,62,523,67,481,73"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#acb9b90660a171dbd6a9b9717f0213f92" title=" " alt="" coords="528,95,728,135"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="481,93,513,97,512,102,480,98"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="583,29,581,19,588,10,604,5,628,3,654,5,669,11,667,16,653,10,628,8,605,10,591,15,586,21,588,28"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#abdb0245e5cb7f7b92cc1060202821a2d" title=" " alt="" coords="776,29,958,70"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="719,56,761,56,761,61,719,61"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#af0b067c76cbb79f54d7f475e88fcfed2" title=" " alt="" coords="776,119,958,159"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="694,68,729,81,803,110,801,115,727,85,693,73"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="776,44,734,43,734,38,776,38"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a3d86d4b8414c05aafe18fc866d99ccab" title=" " alt="" coords="1006,29,1177,70"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="958,47,990,47,990,52,958,52"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="825,119,823,109,830,100,844,94,867,92,891,94,906,101,904,106,890,100,867,97,846,99,833,104,828,110,830,117"/>
+</map>

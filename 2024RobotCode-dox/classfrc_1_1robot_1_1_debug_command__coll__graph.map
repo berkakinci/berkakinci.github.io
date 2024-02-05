@@ -1,0 +1,16 @@
+<map id="frc.robot.DebugCommand" name="frc.robot.DebugCommand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="591,92,762,118"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="299,5,381,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="396,26,568,66,639,89,637,94,566,71,395,31"/>
+<area shape="rect" id="Node000003" href="$classfrc_1_1robot_1_1subsystems_1_1swervedrive_1_1_swerve_subsystem.html" title=" " alt="" coords="229,55,451,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="467,84,591,95,590,100,466,89"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,63,123,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="139,73,228,73,228,78,139,78"/>
+<area shape="rect" id="Node000005" href="$classfrc_1_1robot_1_1my_number_inator.html" title=" " alt="" coords="255,120,425,146"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="441,130,567,123,612,116,613,121,567,128,441,135"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="9,141,119,167"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="134,146,254,137,255,142,135,151"/>
+<area shape="rect" id="Node000007" href="$classfrc_1_1robot_1_1my_circle_inator.html" title=" " alt="" coords="261,175,419,200"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="113,170,147,179,204,186,260,188,260,193,204,191,146,184,112,175"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="434,176,500,165,566,149,610,133,649,116,651,121,612,138,568,154,501,170,435,181"/>
+</map>

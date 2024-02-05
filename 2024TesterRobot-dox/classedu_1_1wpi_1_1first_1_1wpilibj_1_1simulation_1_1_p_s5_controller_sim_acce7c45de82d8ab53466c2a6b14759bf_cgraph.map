@@ -1,0 +1,15 @@
+<map id="edu.wpi.first.wpilibj.simulation.PS5ControllerSim.PS5ControllerSim" name="edu.wpi.first.wpilibj.simulation.PS5ControllerSim.PS5ControllerSim">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,239,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_generic_h_i_d_sim.html#aab17783b48637e3746245ae4eb2dfc9c" title=" " alt="" coords="291,5,491,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,67,289,48,290,53,209,73"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_generic_h_i_d_sim.html#a4ba868164c051e136c5cf8072afe5f7b" title=" " alt="" coords="287,71,495,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,88,271,88,271,94,239,94"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_generic_h_i_d_sim.html#ad1e15d8e4e3a01b203cbe3330dcf5115" title=" " alt="" coords="291,136,491,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="209,109,290,129,289,134,208,115"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_driver_station_sim.html#a720454ecaa1181fd774b867b1ec95980" title=" " alt="" coords="549,5,801,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,23,534,23,534,28,491,28"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_driver_station_sim.html#a925bf3aad49f44502c25143d97dba3ea" title=" " alt="" coords="543,71,807,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="495,88,527,88,527,94,495,94"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_driver_station_sim.html#a8ac77b1ed78b72282664eeb29407d880" title=" " alt="" coords="548,136,802,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="491,154,532,154,532,159,491,159"/>
+</map>

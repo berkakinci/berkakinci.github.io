@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.shuffleboard.ShuffleboardContainer.add" name="edu.wpi.first.wpilibj.shuffleboard.ShuffleboardContainer.add">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,217,79"/>
+<area shape="rect" id="Node000002" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1shuffleboard_1_1_shuffleboard_container.html#a3a963569dbb7c5495c06440e30759b1c" title=" " alt="" coords="265,5,476,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,43,249,39,249,44,217,48"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1shuffleboard_1_1_sendable_camera_wrapper.html#a8f9c8a649ff7515c0bcdfbcfe06fa845" title=" " alt="" coords="265,71,476,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,69,249,73,249,79,217,75"/>
+</map>

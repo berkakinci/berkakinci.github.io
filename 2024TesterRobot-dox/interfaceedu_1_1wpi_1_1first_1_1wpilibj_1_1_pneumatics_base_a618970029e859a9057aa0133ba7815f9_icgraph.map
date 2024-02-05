@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.PneumaticsBase.getForType" name="edu.wpi.first.wpilibj.PneumaticsBase.getForType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="264,71,469,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_compressor.html#a1d7a26f73e3596f3fd86dec7684ea8a3" title=" " alt="" coords="5,5,216,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,69,192,49,194,44,270,64"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_double_solenoid.html#ac340bf27d4551518f593064d43bbce87" title=" " alt="" coords="22,71,199,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,94,200,94,200,88,248,88"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_solenoid.html#abaeb699a93536a147408b407bb9d4c60" title=" " alt="" coords="15,136,206,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,118,194,138,192,133,269,113"/>
+</map>

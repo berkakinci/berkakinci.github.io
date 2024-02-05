@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.shuffleboard.SendableCameraWrapper" name="edu.wpi.first.wpilibj.shuffleboard.SendableCameraWrapper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,217,120"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="16,5,91,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,42,99,77,95,80,69,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="115,5,222,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,45,127,80,123,77,149,42"/>
+</map>

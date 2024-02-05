@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.AnalogInput.getAverageVoltage" name="edu.wpi.first.wpilibj.AnalogInput.getAverageVoltage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,39,428,79"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_potentiometer.html#ab76a641b3c2f3f800a6c3c9f45065972" title=" " alt="" coords="16,5,193,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,47,193,41,194,36,237,42"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_accelerometer.html#a1115643ba368f303a9fa97683b25b49b" title=" " alt="" coords="5,71,204,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,76,205,80,204,75,236,70"/>
+</map>

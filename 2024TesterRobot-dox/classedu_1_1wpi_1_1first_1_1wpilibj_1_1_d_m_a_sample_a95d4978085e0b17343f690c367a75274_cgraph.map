@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.DMASample.getEncoderDistance" name="edu.wpi.first.wpilibj.DMASample.getEncoderDistance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,238,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_encoder.html#a7ae1f3320fb3bc7ccc5506fc7cae3c86" title=" " alt="" coords="299,5,505,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,67,296,47,297,53,212,73"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_encoder.html#aae1272109147b3ce5dc66c55408d72e0" title=" " alt="" coords="299,71,505,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,88,284,88,284,94,238,94"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_d_m_a_sample.html#a8dc88bad8e6afdbd16e6943910faf49a" title=" " alt="" coords="286,136,518,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,109,297,129,296,135,211,115"/>
+</map>

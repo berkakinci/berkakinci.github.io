@@ -1,0 +1,19 @@
+<map id="edu.wpi.first.wpilibj.DigitalSource.getPortHandleForRouting" name="edu.wpi.first.wpilibj.DigitalSource.getPortHandleForRouting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="286,235,499,275"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_d_m_a.html#acfeca3397aade36080f063eb68c40881" title=" " alt="" coords="26,5,217,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="371,223,349,185,318,141,280,98,236,61,214,49,216,44,239,57,284,94,322,138,353,182,376,220"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_d_m_a_sample.html#a8b577699ef63afe36271317af9f77ce7" title=" " alt="" coords="5,71,238,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="360,225,305,175,272,149,236,127,209,114,211,109,239,122,275,144,309,170,364,221"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter.html#a3ce037c671f43c48dd6d83f594848fb0" title=" " alt="" coords="20,136,223,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="331,230,237,192,199,180,201,175,239,187,333,226"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_d_m_a.html#ac6abd6ecf13e6ab66c86b1cf25a40c24" title=" " alt="" coords="27,201,216,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="270,243,216,236,217,231,270,237"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_encoder.html#a3a51f9827ccd6f88e57966d2b8df3fb7" title=" " alt="" coords="19,267,224,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="270,272,225,278,224,272,270,267"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter.html#ae63099da0d855dc72efd64c7579730c7" title=" " alt="" coords="20,332,223,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="331,285,239,322,200,334,198,329,237,316,330,280"/>
+<area shape="rect" id="Node000008" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_s_p_i.html#a2a400b38911a94aa2eb7aefbeb4f7162" title=" " alt="" coords="27,397,216,438"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="363,288,309,339,275,364,239,387,211,399,209,394,236,382,272,360,305,335,360,284"/>
+<area shape="rect" id="Node000009" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_synchronous_interrupt.html#a80059d1bb8f4bca30ac1c01a491d5232" title=" " alt="" coords="15,463,228,503"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="376,290,353,328,322,371,284,415,239,452,216,464,214,460,236,447,280,411,318,368,348,325,371,287"/>
+</map>

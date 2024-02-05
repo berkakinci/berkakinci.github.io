@@ -1,0 +1,11 @@
+<map id="edu.wpi.first.wpilibj.AnalogInput.getChannel" name="edu.wpi.first.wpilibj.AnalogInput.getChannel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="558,71,734,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_analog_gyro_sim.html#a40b90331fea15fbdaf0463536a78dcbf" title=" " alt="" coords="302,5,509,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="554,69,482,49,484,44,555,64"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_analog_input_sim.html#ae25b18e40a6b10281fe1d322df5671d9" title=" " alt="" coords="301,71,510,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="542,94,511,94,511,88,542,88"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_encoder.html#a56a08d6a579fe09f679dea306f8a0b30" title=" " alt="" coords="317,136,494,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="555,118,484,138,482,133,554,113"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_analog_encoder_sim.html#a889064bea7fa4f436cd744cad2bc60b7" title=" " alt="" coords="5,136,253,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="302,159,253,159,253,154,302,154"/>
+</map>

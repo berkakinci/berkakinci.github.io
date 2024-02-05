@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.shuffleboard.SimpleWidget" name="edu.wpi.first.wpilibj.shuffleboard.SimpleWidget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,94,251,135"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,141,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,56,131,92,127,95,97,60"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="165,13,272,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,52,163,96,159,92,196,49"/>
+</map>

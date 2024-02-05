@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.ADIS16470_IMU" name="edu.wpi.first.wpilibj.ADIS16470_IMU">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,241,105"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="13,5,119,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,41,115,77,111,80,83,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="143,5,218,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,45,135,80,131,77,159,41"/>
+</map>

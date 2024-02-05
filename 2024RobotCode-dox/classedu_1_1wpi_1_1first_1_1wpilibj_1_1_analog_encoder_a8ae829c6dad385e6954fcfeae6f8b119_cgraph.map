@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.AnalogEncoder.reset" name="edu.wpi.first.wpilibj.AnalogEncoder.reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,182,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_input.html#a34009b33645836788a949e19754f5ee5" title=" " alt="" coords="249,5,425,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,68,243,48,244,53,172,73"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_robot_controller.html#a4d1cd6f0538d2795624514f8b0a3cfe6" title=" " alt="" coords="251,71,423,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,88,235,88,235,94,182,94"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter.html#ac1e11fcde483c69b5142b29b581982c4" title=" " alt="" coords="230,136,444,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,109,265,129,264,134,181,114"/>
+</map>

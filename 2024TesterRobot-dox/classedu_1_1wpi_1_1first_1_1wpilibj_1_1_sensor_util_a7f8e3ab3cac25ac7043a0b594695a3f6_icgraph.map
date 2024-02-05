@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.SensorUtil.checkDigitalChannel" name="edu.wpi.first.wpilibj.SensorUtil.checkDigitalChannel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,39,404,79"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_digital_input.html#a5a5214d3def8ff8a29d5927f472e89ae" title=" " alt="" coords="5,5,179,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,46,179,41,179,36,212,41"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_digital_output.html#a376e63cce72e6e8c6dec8e86d1639bbd" title=" " alt="" coords="5,71,179,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,77,179,81,179,76,211,71"/>
+</map>

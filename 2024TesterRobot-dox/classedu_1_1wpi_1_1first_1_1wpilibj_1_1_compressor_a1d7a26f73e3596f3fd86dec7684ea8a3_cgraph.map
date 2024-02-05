@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.Compressor.Compressor" name="edu.wpi.first.wpilibj.Compressor.Compressor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,216,111"/>
+<area shape="rect" id="Node000002" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1_pneumatics_base.html#ab51c18e7d50fe13dbd0bdf5caf874b78" title=" " alt="" coords="264,5,469,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,67,269,48,270,53,194,73"/>
+<area shape="rect" id="Node000003" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1_pneumatics_base.html#a618970029e859a9057aa0133ba7815f9" title=" " alt="" coords="264,71,469,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,88,248,88,248,94,216,94"/>
+<area shape="rect" id="Node000004" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1_pneumatics_base.html#afbc308b5148af594a1a2ea3efbc7a202" title=" " alt="" coords="264,136,469,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,109,270,129,269,134,192,115"/>
+</map>

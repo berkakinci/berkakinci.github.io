@@ -1,0 +1,19 @@
+<map id="edu.wpi.first.wpilibj.ADXRS450_Gyro.ADXRS450_Gyro" name="edu.wpi.first.wpilibj.ADXRS450_Gyro.ADXRS450_Gyro">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,186,210,227"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_s_p_i.html#a8b5b7c1cfb5a46b1a56278f8d472448c" title=" " alt="" coords="274,55,454,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,183,189,145,256,106,273,99,275,104,259,111,192,149,137,188"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a40fcb0dd08778d829076cf9fcc8ab402" title=" " alt="" coords="278,121,450,161"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="189,183,266,163,267,168,191,188"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_s_p_i.html#a0bb120e12ca254d5e4de9f0f15744c8d" title=" " alt="" coords="274,186,454,227"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="210,204,258,204,258,209,210,209"/>
+<area shape="rect" id="Node000008" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_s_p_i.html#a45b42bd39ca2f63f45e4e14f9b84a0fd" title=" " alt="" coords="274,251,454,292"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="191,225,267,244,266,249,189,230"/>
+<area shape="rect" id="Node000009" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_s_p_i.html#a7977e9c075348c4428a0fb6766c09f57" title=" " alt="" coords="258,316,470,342"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="136,225,191,264,259,301,279,309,277,314,257,306,188,268,133,229"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_s_p_i.html#a83f6e306bf3747492845a2087ef8c64d" title=" " alt="" coords="518,5,724,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="453,53,545,32,546,38,454,58"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_s_p_i.html#a7057b307dd6cd3acf0732b851f4aacbe" title=" " alt="" coords="531,55,711,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="454,73,516,73,516,78,454,78"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_s_p_i.html#ade0f1e7bba2dc5f02cd08ab1f015541d" title=" " alt="" coords="527,121,715,161"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="447,94,524,114,523,119,446,99"/>
+</map>

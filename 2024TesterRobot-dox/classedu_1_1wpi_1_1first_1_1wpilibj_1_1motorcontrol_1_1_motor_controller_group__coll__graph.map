@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.motorcontrol.MotorControllerGroup" name="edu.wpi.first.wpilibj.motorcontrol.MotorControllerGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="173,94,386,135"/>
+<area shape="rect" id="Node000002" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_motor_controller.html" title=" " alt="" coords="5,5,218,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,51,243,91,240,96,162,56"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="242,13,317,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,54,282,94,277,94,277,54"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="341,13,447,39"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="368,50,307,96,304,91,365,46"/>
+</map>

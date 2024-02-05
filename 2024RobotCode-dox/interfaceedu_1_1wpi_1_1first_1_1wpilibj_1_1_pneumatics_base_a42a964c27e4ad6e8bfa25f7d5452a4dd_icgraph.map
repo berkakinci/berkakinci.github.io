@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.PneumaticsBase.getSolenoidDisabledList" name="edu.wpi.first.wpilibj.PneumaticsBase.getSolenoidDisabledList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="265,71,470,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_solenoid.html#a49da7609de20b6c4ae87b1e17b96ed76" title=" " alt="" coords="11,5,211,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,69,193,49,194,44,271,64"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_double_solenoid.html#af8baf83f3578dc423c1be2381df92ef1" title=" " alt="" coords="5,71,217,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,94,217,94,217,88,249,88"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_double_solenoid.html#accb4dc90bac9f73ba0e3792292773024" title=" " alt="" coords="6,136,216,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,118,194,138,193,133,269,113"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="edu.wpi.first.wpilibj.SensorUtil.getDefaultREVPHModule" name="edu.wpi.first.wpilibj.SensorUtil.getDefaultREVPHModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="560,201,754,242"/>
+<area shape="rect" id="Node000002" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1_pneumatics_base.html#a7f07af9f270e5dbb58336c1b605e6465" title=" " alt="" coords="307,136,512,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="562,199,489,180,490,175,563,194"/>
+<area shape="rect" id="Node000008" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_pneumatic_hub.html#a363b694ee5c20012f883eaa25b0a35b8" title=" " alt="" coords="310,201,509,242"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="545,224,509,224,509,219,545,219"/>
+<area shape="rect" id="Node000009" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_r_e_v_p_h_sim.html#ac67ea0e3e438f8d4ff139ba85b9d8185" title=" " alt="" coords="310,267,509,307"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="563,249,490,269,489,263,562,244"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_compressor.html#af0d27dcf99c6132ddbca7c320884bcc9" title=" " alt="" coords="27,5,237,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,129,317,94,258,61,225,49,226,44,260,57,320,89,371,124"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_double_solenoid.html#aa80f7927d5629ad62d5a306627f7325c" title=" " alt="" coords="43,71,221,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="305,134,220,114,221,109,306,129"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_double_solenoid_sim.html#a46a24e037822569ae9d627a5e37cda23" title=" " alt="" coords="5,136,259,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="291,159,259,159,259,154,291,154"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_solenoid.html#a8e37ae613c1811380d9ce3fcbe5b9682" title=" " alt="" coords="37,201,227,242"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="306,183,222,203,221,198,305,178"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_solenoid_sim.html#aa302bfd31059a6655c1133d0a549a2ce" title=" " alt="" coords="32,267,232,307"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="316,187,308,192,293,207,285,223,277,240,260,256,233,270,231,265,257,252,272,237,281,221,289,204,305,188,313,182"/>
+</map>

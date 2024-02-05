@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.AnalogInput.getVoltage" name="edu.wpi.first.wpilibj.AnalogInput.getVoltage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="242,71,418,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_encoder.html#a8c16e04be49753f6ac9f2a8283885a95" title=" " alt="" coords="11,5,188,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,69,173,49,175,44,242,63"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_encoder.html#a9bfae2e8af5683d68b9c3a91139f4105" title=" " alt="" coords="5,71,194,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,94,194,94,194,88,226,88"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_encoder.html#a8ae829c6dad385e6954fcfeae6f8b119" title=" " alt="" coords="11,136,188,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,119,175,138,173,133,241,113"/>
+</map>

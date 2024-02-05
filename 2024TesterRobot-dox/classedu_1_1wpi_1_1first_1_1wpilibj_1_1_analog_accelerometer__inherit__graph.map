@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.AnalogAccelerometer" name="edu.wpi.first.wpilibj.AnalogAccelerometer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="12,79,189,120"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,81,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,42,88,77,84,80,58,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="105,5,211,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,45,117,80,112,77,138,42"/>
+</map>

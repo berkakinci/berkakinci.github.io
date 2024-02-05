@@ -1,0 +1,16 @@
+<map id="edu.wpi.first.wpilibj.Joystick.getMagnitude" name="edu.wpi.first.wpilibj.Joystick.getMagnitude">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,213,88"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_joystick.html#a69e35d7f6fe88519ace564bc17775c91" title=" " alt="" coords="261,5,477,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,45,282,32,283,37,214,50"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#af0b067c76cbb79f54d7f475e88fcfed2" title=" " alt="" coords="754,98,936,139"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="214,84,261,90,389,101,518,108,739,115,739,120,518,114,389,107,260,95,213,89"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_joystick.html#a297510a717aaf45989f34cda37d84d07" title=" " alt="" coords="261,55,477,80"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="213,65,245,65,245,70,213,70"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#a561e13532e9305a057a3b02cc655833c" title=" " alt="" coords="525,25,706,65"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,27,509,31,509,36,477,33"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#af9606114345715ee1577c2b0c66a070c" title=" " alt="" coords="759,9,931,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="706,36,744,33,744,39,707,41"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="682,63,765,90,764,95,681,68"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="802,98,800,88,807,79,822,73,845,71,870,74,885,80,882,85,868,79,845,76,823,78,810,83,805,89,807,97"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="477,55,509,52,509,57,478,60"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.simulation.SingleJointedArmSim.getAngleRads" name="edu.wpi.first.wpilibj.simulation.SingleJointedArmSim.getAngleRads">
+<area shape="rect" id="Node000001" title=" " alt="" coords="305,39,537,79"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_single_jointed_arm_sim.html#abd0929308d4d6000b22c4586a2cc853e" title=" " alt="" coords="5,5,257,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,47,257,43,257,37,290,41"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_single_jointed_arm_sim.html#aabc01fe5350000d46b805a998c5149b5" title=" " alt="" coords="5,71,257,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,76,257,80,257,74,289,71"/>
+</map>

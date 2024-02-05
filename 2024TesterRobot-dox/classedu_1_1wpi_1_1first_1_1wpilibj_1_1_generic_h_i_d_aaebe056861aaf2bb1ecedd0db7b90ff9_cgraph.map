@@ -1,0 +1,11 @@
+<map id="edu.wpi.first.wpilibj.GenericHID.isConnected" name="edu.wpi.first.wpilibj.GenericHID.isConnected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,187,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a056d56460e18739d6d079c98c37ef2f6" title=" " alt="" coords="235,71,423,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,88,219,88,219,94,187,94"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a856e3845eab82f52e42ef948cf837eb1" title=" " alt="" coords="477,5,652,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,68,473,48,474,53,405,73"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a135289c94c1531f10e7e326b7fd4b7dd" title=" " alt="" coords="471,71,658,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="424,88,455,88,455,94,424,94"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a53509302a821073cea27e85da6bd3a8a" title=" " alt="" coords="476,136,653,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="405,109,474,129,473,134,404,114"/>
+</map>

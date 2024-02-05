@@ -1,0 +1,11 @@
+<map id="edu.wpi.first.wpilibj.smartdashboard.MechanismLigament2d.MechanismLigament2d" name="edu.wpi.first.wpilibj.smartdashboard.MechanismLigament2d.MechanismLigament2d">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,299,145"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1smartdashboard_1_1_mechanism_ligament2d.html#a0a976e4cb0de7930ea2cd984c54264ba" title=" " alt="" coords="351,5,584,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,101,346,56,373,48,375,53,347,62,214,106"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1smartdashboard_1_1_mechanism_ligament2d.html#a02df5cc5f71ae1737ccd80271a0150b3" title=" " alt="" coords="351,71,584,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="299,106,335,102,336,108,299,111"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1smartdashboard_1_1_mechanism_ligament2d.html#aadc5c6dea749f2eb31f89e30ebd676db" title=" " alt="" coords="351,136,584,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="299,137,336,140,335,146,299,142"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1smartdashboard_1_1_mechanism_ligament2d.html#a2a87f9abadcd80051dd501a6d9cd088e" title=" " alt="" coords="347,201,588,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="215,143,347,186,375,194,373,199,346,191,213,148"/>
+</map>

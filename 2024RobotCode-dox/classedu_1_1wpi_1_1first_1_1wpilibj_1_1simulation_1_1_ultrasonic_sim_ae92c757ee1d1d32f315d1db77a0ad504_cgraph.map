@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.simulation.UltrasonicSim.UltrasonicSim" name="edu.wpi.first.wpilibj.simulation.UltrasonicSim.UltrasonicSim">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,205,46"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_ultrasonic.html#addfcca8c0fb4b35478a4d97dee5333d2" title=" " alt="" coords="253,5,470,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,23,237,23,237,28,205,28"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_digital_input.html#a39ee915f02a10707e1d6d168af29b4c8" title=" " alt="" coords="518,5,691,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,23,502,23,502,28,470,28"/>
+</map>

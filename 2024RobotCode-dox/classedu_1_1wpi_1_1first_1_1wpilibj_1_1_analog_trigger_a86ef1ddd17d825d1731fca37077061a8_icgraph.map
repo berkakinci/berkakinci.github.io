@@ -1,0 +1,17 @@
+<map id="edu.wpi.first.wpilibj.AnalogTrigger.getIndex" name="edu.wpi.first.wpilibj.AnalogTrigger.getIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="564,136,740,177"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_trigger.html#a787d631592063aa77f24cd736b90885d" title=" " alt="" coords="312,5,489,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="615,128,569,94,515,61,485,49,487,44,517,57,572,89,618,124"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_trigger.html#ae85dbb2de66f248c58d54249a45ec938" title=" " alt="" coords="312,71,489,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="556,134,481,115,482,109,557,129"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_trigger_output.html#ac1ae0f9d636567fdd2e1bb3da1f798d1" title=" " alt="" coords="289,136,512,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="548,159,513,159,513,154,548,154"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_analog_trigger_sim.html#a33f4ad28e82a16e3267857a0fa8d33c6" title=" " alt="" coords="285,201,516,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="557,184,482,203,481,198,556,179"/>
+<area shape="rect" id="Node000008" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_trigger_output.html#a00ea6e14ca8e34a74c2b239508274a3d" title=" " alt="" coords="312,267,489,307"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="618,189,572,224,517,256,487,268,485,264,515,251,569,219,615,184"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_analog_trigger_sim.html#aa7fc8645c6b1acd57934bf1170951a7b" title=" " alt="" coords="5,168,237,209"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="269,209,237,205,237,199,269,203"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_analog_trigger_sim.html#a91e9e08387ab03f2dab813d289aa7b81" title=" " alt="" coords="13,233,229,274"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="269,239,229,244,229,239,269,234"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.shuffleboard.ShuffleboardRoot.disableActuatorWidgets" name="edu.wpi.first.wpilibj.shuffleboard.ShuffleboardRoot.disableActuatorWidgets">
+<area shape="rect" id="Node000001" title=" " alt="" coords="521,39,785,79"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1shuffleboard_1_1_shuffleboard.html#a0470a43375c462b3c46186e96f6beea4" title=" " alt="" coords="237,39,473,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="505,62,474,62,474,56,505,56"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_iterative_robot_base.html#aac5c45d7130bce188e0f9278075e8891" title=" " alt="" coords="5,5,189,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,44,189,40,189,35,222,39"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_robot_base.html#aaa94c56bb5bb24b2ec7c526c0c1eac62" title=" " alt="" coords="11,71,183,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="222,78,183,83,183,78,221,73"/>
+</map>

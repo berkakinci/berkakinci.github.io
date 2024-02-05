@@ -1,0 +1,11 @@
+<map id="edu.wpi.first.wpilibj.AnalogInput.resetAccumulator" name="edu.wpi.first.wpilibj.AnalogInput.resetAccumulator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,89,182,129"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_timer.html#a7ffa861556c640f9de9aa09d796bad6d" title=" " alt="" coords="230,5,433,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,86,177,63,229,41,253,33,255,38,231,46,179,68,133,91"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_input.html#a50edcf7229f453f039af502901509c54" title=" " alt="" coords="243,55,420,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,94,227,87,228,93,182,99"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_input.html#ab6859209ebbf11703efdff1b09b5f38e" title=" " alt="" coords="241,121,422,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,118,226,124,225,129,182,123"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_input.html#a573b6747e97dd1e3072ef59137e081a0" title=" " alt="" coords="243,186,420,227"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="137,127,231,170,250,178,248,183,229,175,134,132"/>
+</map>

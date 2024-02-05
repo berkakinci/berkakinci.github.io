@@ -1,0 +1,26 @@
+var classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim =
+[
+    [ "KitbotGearing", "enumedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim_1_1_kitbot_gearing.html", "enumedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim_1_1_kitbot_gearing" ],
+    [ "KitbotMotor", "enumedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim_1_1_kitbot_motor.html", "enumedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim_1_1_kitbot_motor" ],
+    [ "KitbotWheelSize", "enumedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim_1_1_kitbot_wheel_size.html", "enumedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim_1_1_kitbot_wheel_size" ],
+    [ "State", "enumedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim_1_1_state.html", null ],
+    [ "DifferentialDrivetrainSim", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#afa717854f8de3e584a58f614e4016f3a", null ],
+    [ "DifferentialDrivetrainSim", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a43a2505742616c294a57d72fb3d2da9a", null ],
+    [ "clampInput", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a1fdf341946a1307848ae928b870ba2eb", null ],
+    [ "getCurrentDrawAmps", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a1aa750258edc38857e2ca8c78a17e9e3", null ],
+    [ "getCurrentGearing", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a587c7cb1708107a521f9a180a415278c", null ],
+    [ "getDynamics", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a784eaa740c65d1ae45f5ca99b1722928", null ],
+    [ "getHeading", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a61cd0ae6481939877f6391726df0763a", null ],
+    [ "getLeftCurrentDrawAmps", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#ad8dede9a270cb15e34e80c511459cde4", null ],
+    [ "getLeftPositionMeters", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#aaf251de8919bb8296a66229cb3fa2efa", null ],
+    [ "getLeftVelocityMetersPerSecond", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a5414d9d01cf521f5b2f0f17303c3cad8", null ],
+    [ "getPose", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#afa55e7e73762ee1df78b2aab94b34035", null ],
+    [ "getRightCurrentDrawAmps", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a3f5202e6b07d59f2bbdde02fe71033f5", null ],
+    [ "getRightPositionMeters", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a42fd83bc4bbb52b0ccb98fbb41e64b9c", null ],
+    [ "getRightVelocityMetersPerSecond", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#ae3fff1b1a8efe6d4b57cc46fa76bf988", null ],
+    [ "setCurrentGearing", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a0e626464909b5d86788bbf92e855c2f0", null ],
+    [ "setInputs", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a6460e3142fab5f037b98ced032032dba", null ],
+    [ "setPose", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a6106a5adaa3f15244345c0b7f605ff8f", null ],
+    [ "setState", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#af3452bfb565731e618069f2e5f1371b7", null ],
+    [ "update", "classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_differential_drivetrain_sim.html#a74571705759a0f843e5d4db32a1c42c1", null ]
+];

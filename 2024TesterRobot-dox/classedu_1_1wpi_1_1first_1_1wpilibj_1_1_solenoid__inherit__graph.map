@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.Solenoid" name="edu.wpi.first.wpilibj.Solenoid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,79,194,105"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,81,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,41,93,77,89,80,60,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="105,5,211,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,45,112,80,108,77,137,41"/>
+</map>

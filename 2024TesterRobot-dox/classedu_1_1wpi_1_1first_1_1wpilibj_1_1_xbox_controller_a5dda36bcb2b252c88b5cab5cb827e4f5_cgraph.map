@@ -1,0 +1,15 @@
+<map id="edu.wpi.first.wpilibj.XboxController.getRightStickButtonPressed" name="edu.wpi.first.wpilibj.XboxController.getRightStickButtonPressed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,203,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#a097c775f0ef764796523a65f8f3b688d" title=" " alt="" coords="251,63,432,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,80,235,80,235,86,203,86"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#a77f3feaa9b70759aa7e26c20bec4bec2" title=" " alt="" coords="490,29,671,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,68,474,62,475,67,433,73"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#acb9b90660a171dbd6a9b9717f0213f92" title=" " alt="" coords="480,95,680,135"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="433,93,465,97,464,102,432,98"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="535,29,533,19,540,10,556,5,580,3,606,5,621,11,619,16,605,10,580,8,557,10,543,15,538,21,540,28"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#abdb0245e5cb7f7b92cc1060202821a2d" title=" " alt="" coords="728,29,910,70"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="671,56,713,56,713,61,671,61"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="728,44,686,43,686,38,728,38"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a3d86d4b8414c05aafe18fc866d99ccab" title=" " alt="" coords="958,29,1129,70"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="910,47,942,47,942,52,910,52"/>
+</map>

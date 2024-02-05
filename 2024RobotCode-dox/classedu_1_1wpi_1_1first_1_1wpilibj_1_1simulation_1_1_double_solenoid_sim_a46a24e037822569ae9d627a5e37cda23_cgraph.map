@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.simulation.DoubleSolenoidSim.DoubleSolenoidSim" name="edu.wpi.first.wpilibj.simulation.DoubleSolenoidSim.DoubleSolenoidSim">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,259,79"/>
+<area shape="rect" id="Node000002" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1_pneumatics_base.html#a7f07af9f270e5dbb58336c1b605e6465" title=" " alt="" coords="307,39,512,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,56,291,56,291,62,259,62"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_sensor_util.html#a7889ff0082624ed463b5149eb2d4abd6" title=" " alt="" coords="560,5,774,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="512,43,544,39,545,44,513,48"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_sensor_util.html#a9d29bd9b554cc92650b42adc333681ef" title=" " alt="" coords="570,71,764,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="513,69,555,74,554,80,512,74"/>
+</map>

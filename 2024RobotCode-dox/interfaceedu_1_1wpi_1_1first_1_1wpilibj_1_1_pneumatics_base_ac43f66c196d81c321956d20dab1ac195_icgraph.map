@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.PneumaticsBase.getModuleNumber" name="edu.wpi.first.wpilibj.PneumaticsBase.getModuleNumber">
+<area shape="rect" id="Node000001" title=" " alt="" coords="323,71,528,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_double_solenoid.html#ac340bf27d4551518f593064d43bbce87" title=" " alt="" coords="51,5,229,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,69,228,49,230,43,319,64"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_pneumatics_base_sim.html#ac04d389cb20f693ae5a7f64c3f550e75" title=" " alt="" coords="5,71,275,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,94,275,94,275,88,307,88"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_solenoid.html#abaeb699a93536a147408b407bb9d4c60" title=" " alt="" coords="45,136,235,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="319,118,233,138,231,133,318,113"/>
+</map>

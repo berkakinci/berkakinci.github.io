@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.motorcontrol.MotorController.set" name="edu.wpi.first.wpilibj.motorcontrol.MotorController.set">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,39,479,79"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1drive_1_1_differential_drive.html#aad4a39f58c1ae09ec9b76ccc4112d8eb" title=" " alt="" coords="5,5,219,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,46,219,42,220,37,251,41"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1drive_1_1_mecanum_drive.html#a7a5134b21ddc4fbfa048ca3fa37c1d1c" title=" " alt="" coords="11,71,213,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,77,213,81,213,76,251,71"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="edu.wpi.first.wpilibj.motorcontrol.DMC60" name="edu.wpi.first.wpilibj.motorcontrol.DMC60">
+<area shape="rect" id="Node000001" title=" " alt="" coords="526,100,738,141"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_p_w_m_motor_controller.html" title=" " alt="" coords="266,100,478,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="493,118,526,118,526,123,493,123"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_motor_safety.html" title=" " alt="" coords="27,5,196,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="197,49,219,56,322,97,320,102,217,62,195,54"/>
+<area shape="rect" id="Node000004" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_motor_controller.html" title=" " alt="" coords="5,71,218,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="233,102,266,106,265,111,233,107"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="74,136,149,161"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="165,140,265,129,265,134,165,145"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="58,185,165,211"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="179,181,217,171,315,139,316,144,218,176,180,186"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.Ultrasonic.ping" name="edu.wpi.first.wpilibj.Ultrasonic.ping">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,70,229,96"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_digital_output.html#a08f52c141526a4d646584e269296e018" title=" " alt="" coords="299,5,472,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,67,283,45,284,50,181,72"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter.html#ac1e11fcde483c69b5142b29b581982c4" title=" " alt="" coords="278,70,493,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,80,263,80,263,86,229,86"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_ultrasonic.html#ac0d57e4ba34d024e470b15463e72e193" title=" " alt="" coords="277,120,494,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,94,273,114,271,119,180,99"/>
+</map>

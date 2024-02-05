@@ -1,0 +1,14 @@
+<map id="edu.wpi.first.wpilibj.PS5Controller.getCircleButton" name="edu.wpi.first.wpilibj.PS5Controller.getCircleButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,176,70"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#abdb0245e5cb7f7b92cc1060202821a2d" title=" " alt="" coords="224,29,405,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,47,208,47,208,52,176,52"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#a77f3feaa9b70759aa7e26c20bec4bec2" title=" " alt="" coords="453,29,634,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,56,438,56,438,61,405,61"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a3d86d4b8414c05aafe18fc866d99ccab" title=" " alt="" coords="458,95,629,135"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="389,68,456,87,454,92,387,73"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="453,44,420,43,420,38,453,38"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="500,29,498,19,505,10,521,5,544,3,568,5,583,11,581,16,567,10,544,8,522,10,509,15,504,21,506,28"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#af0b067c76cbb79f54d7f475e88fcfed2" title=" " alt="" coords="682,29,864,70"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="635,47,667,47,667,52,635,52"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="730,29,728,19,735,10,750,5,773,3,798,5,813,11,810,16,796,10,773,8,751,10,738,15,733,21,735,28"/>
+</map>

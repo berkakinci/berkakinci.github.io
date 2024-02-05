@@ -1,0 +1,14 @@
+<map id="edu.wpi.first.wpilibj.Joystick.getDirectionDegrees" name="edu.wpi.first.wpilibj.Joystick.getDirectionDegrees">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,213,64"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_joystick.html#a24a5901175338bf04c92cd9502bf9f80" title=" " alt="" coords="261,23,468,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,41,245,41,245,46,213,46"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_joystick.html#a69e35d7f6fe88519ace564bc17775c91" title=" " alt="" coords="516,5,732,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,31,500,28,501,33,469,36"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_joystick.html#a297510a717aaf45989f34cda37d84d07" title=" " alt="" coords="516,55,732,80"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="469,50,501,53,500,59,468,56"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#a561e13532e9305a057a3b02cc655833c" title=" " alt="" coords="780,23,962,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="733,27,765,30,764,35,733,32"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#af9606114345715ee1577c2b0c66a070c" title=" " alt="" coords="1010,23,1181,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="962,41,994,41,994,46,962,46"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="733,54,764,51,765,56,733,60"/>
+</map>

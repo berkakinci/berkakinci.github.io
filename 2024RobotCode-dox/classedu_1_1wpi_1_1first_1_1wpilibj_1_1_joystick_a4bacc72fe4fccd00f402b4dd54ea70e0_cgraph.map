@@ -1,0 +1,14 @@
+<map id="edu.wpi.first.wpilibj.Joystick.getTrigger" name="edu.wpi.first.wpilibj.Joystick.getTrigger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,213,70"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#abdb0245e5cb7f7b92cc1060202821a2d" title=" " alt="" coords="261,29,442,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,47,245,47,245,52,213,52"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#a77f3feaa9b70759aa7e26c20bec4bec2" title=" " alt="" coords="490,29,671,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,56,475,56,475,61,442,61"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a3d86d4b8414c05aafe18fc866d99ccab" title=" " alt="" coords="495,95,666,135"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="426,68,493,87,491,92,424,73"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="490,44,457,43,457,38,490,38"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="537,29,535,19,542,10,558,5,581,3,605,5,620,11,618,16,604,10,581,8,559,10,546,15,541,21,543,28"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#af0b067c76cbb79f54d7f475e88fcfed2" title=" " alt="" coords="719,29,901,70"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="672,47,704,47,704,52,672,52"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="767,29,765,19,772,10,787,5,810,3,835,5,850,11,847,16,833,10,810,8,788,10,775,15,770,21,772,28"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.ADIS16470_IMU.ADIS16470_IMU" name="edu.wpi.first.wpilibj.ADIS16470_IMU.ADIS16470_IMU">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,209,96"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_timer.html#a7ffa861556c640f9de9aa09d796bad6d" title=" " alt="" coords="257,5,460,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,52,283,32,284,38,200,57"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a40fcb0dd08778d829076cf9fcc8ab402" title=" " alt="" coords="273,55,444,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,73,257,73,257,78,209,78"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a8446c52983088af3fba8adc2b0d3df8c" title=" " alt="" coords="273,121,444,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,94,263,113,262,119,187,99"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="edu.wpi.first.wpilibj.MotorSafety" name="edu.wpi.first.wpilibj.MotorSafety">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,175,145"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_relay.html" title=" " alt="" coords="244,21,414,47"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,94,222,57,261,45,263,50,224,61,142,99"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1drive_1_1_robot_drive_base.html" title=" " alt="" coords="245,71,413,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,108,244,100,245,105,191,113"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_nidec_brushless.html" title=" " alt="" coords="223,136,435,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="190,135,223,139,222,145,190,140"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_p_w_m_motor_controller.html" title=" " alt="" coords="223,495,435,535"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="114,156,317,493,313,496,109,159"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1drive_1_1_differential_drive.html" title=" " alt="" coords="505,5,673,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="427,64,505,44,506,49,428,69"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1drive_1_1_mecanum_drive.html" title=" " alt="" coords="505,71,673,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="429,88,504,88,504,94,429,94"/>
+<area shape="rect" id="Node000008" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_d_m_c60.html" title=" " alt="" coords="483,136,695,177"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="335,478,351,416,379,338,399,297,422,257,449,220,481,188,500,175,503,179,485,192,453,224,426,260,403,300,384,340,356,418,340,480"/>
+<area shape="rect" id="Node000009" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_jaguar.html" title=" " alt="" coords="483,201,695,242"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="339,479,359,429,389,368,430,306,454,278,481,253,501,240,504,245,485,257,458,282,434,309,394,371,364,431,344,481"/>
+<area shape="rect" id="Node000010" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_p_w_m_spark_flex.html" title=" " alt="" coords="483,267,695,307"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="346,480,369,442,400,399,438,355,481,318,504,306,507,310,485,323,441,359,404,402,373,445,350,482"/>
+<area shape="rect" id="Node000011" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_p_w_m_spark_max.html" title=" " alt="" coords="483,332,695,373"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="358,481,413,431,446,406,482,383,509,371,511,376,484,388,449,410,416,436,362,485"/>
+<area shape="rect" id="Node000012" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_p_w_m_talon_f_x.html" title=" " alt="" coords="483,397,695,438"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="390,486,482,449,518,436,520,441,484,453,392,490"/>
+<area shape="rect" id="Node000013" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_p_w_m_talon_s_r_x.html" title=" " alt="" coords="483,463,695,503"/>
+<area shape="poly" id="edge12_Node000007_Node000013" title=" " alt="" coords="450,497,482,493,483,499,451,503"/>
+<area shape="rect" id="Node000014" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_p_w_m_venom.html" title=" " alt="" coords="483,528,695,569"/>
+<area shape="poly" id="edge13_Node000007_Node000014" title=" " alt="" coords="451,528,483,532,482,537,450,533"/>
+<area shape="rect" id="Node000015" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_p_w_m_victor_s_p_x.html" title=" " alt="" coords="483,593,695,634"/>
+<area shape="poly" id="edge14_Node000007_Node000015" title=" " alt="" coords="391,539,484,578,520,590,518,595,482,583,389,544"/>
+<area shape="rect" id="Node000016" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_s_d540.html" title=" " alt="" coords="483,659,695,699"/>
+<area shape="poly" id="edge15_Node000007_Node000016" title=" " alt="" coords="361,545,416,595,449,621,484,643,511,656,509,660,482,648,446,625,412,599,358,548"/>
+<area shape="rect" id="Node000017" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_spark.html" title=" " alt="" coords="483,724,695,765"/>
+<area shape="poly" id="edge16_Node000007_Node000017" title=" " alt="" coords="350,547,373,585,403,628,441,672,485,709,507,721,504,726,481,713,437,675,399,632,368,588,345,550"/>
+<area shape="rect" id="Node000018" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_talon.html" title=" " alt="" coords="483,789,695,830"/>
+<area shape="poly" id="edge17_Node000007_Node000018" title=" " alt="" coords="344,549,364,599,393,660,434,722,458,750,485,774,504,786,501,791,481,778,454,753,429,725,389,663,359,602,339,551"/>
+<area shape="rect" id="Node000019" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_victor.html" title=" " alt="" coords="483,855,695,895"/>
+<area shape="poly" id="edge18_Node000007_Node000019" title=" " alt="" coords="340,550,356,612,384,690,403,731,426,771,453,807,485,840,503,852,500,856,481,844,449,811,422,773,398,733,379,692,351,614,334,551"/>
+<area shape="rect" id="Node000020" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1motorcontrol_1_1_victor_s_p.html" title=" " alt="" coords="483,920,695,961"/>
+<area shape="poly" id="edge19_Node000007_Node000020" title=" " alt="" coords="337,551,349,625,375,720,395,770,419,819,449,865,485,905,502,917,499,922,481,909,445,868,414,822,390,772,370,722,344,626,331,551"/>
+</map>

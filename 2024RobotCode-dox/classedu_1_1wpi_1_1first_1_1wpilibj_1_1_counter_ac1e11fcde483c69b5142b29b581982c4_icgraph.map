@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.Counter.reset" name="edu.wpi.first.wpilibj.Counter.reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="277,63,491,88"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_ultrasonic.html#ae2574d160f01e3319c677693237c5dbd" title=" " alt="" coords="5,5,229,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,61,180,34,181,29,306,56"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_encoder.html#a8ae829c6dad385e6954fcfeae6f8b119" title=" " alt="" coords="29,55,205,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,78,206,78,206,73,261,73"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_duty_cycle_encoder.html#a67da0ba128c655086d4e40d7a71497cc" title=" " alt="" coords="35,121,199,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="315,95,200,123,199,118,313,90"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.shuffleboard.ShuffleboardLayout" name="edu.wpi.first.wpilibj.shuffleboard.ShuffleboardLayout">
+<area shape="rect" id="Node000001" title=" " alt="" coords="524,39,735,79"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="290,5,451,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,35,524,43,523,48,466,41"/>
+<area shape="rect" id="Node000003" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1shuffleboard_1_1_shuffleboard_container.html" title=" " alt="" coords="265,71,476,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="491,73,523,69,524,75,492,79"/>
+<area shape="rect" id="Node000004" href="$interfaceedu_1_1wpi_1_1first_1_1wpilibj_1_1shuffleboard_1_1_shuffleboard_value.html" title=" " alt="" coords="5,71,217,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="232,88,264,88,264,94,232,94"/>
+</map>

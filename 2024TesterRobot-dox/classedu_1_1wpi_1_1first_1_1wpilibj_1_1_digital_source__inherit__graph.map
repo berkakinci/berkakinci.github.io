@@ -1,0 +1,11 @@
+<map id="edu.wpi.first.wpilibj.DigitalSource" name="edu.wpi.first.wpilibj.DigitalSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="160,71,333,111"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_trigger_output.html" title=" " alt="" coords="381,5,557,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,63,396,44,398,49,333,68"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_digital_input.html" title=" " alt="" coords="383,71,556,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="349,88,382,88,382,94,349,94"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_digital_output.html" title=" " alt="" coords="383,136,556,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="333,114,398,133,396,138,332,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,78,112,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,88,159,88,159,94,127,94"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.simulation.DigitalPWMSim.createForChannel" name="edu.wpi.first.wpilibj.simulation.DigitalPWMSim.createForChannel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,227,46"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1simulation_1_1_digital_p_w_m_sim.html#afe5fea6b7f6a9e8ccbf83cd377240b0b" title=" " alt="" coords="275,5,486,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,23,259,23,259,28,227,28"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_digital_output.html#ac0236a585e69b5cd17e6b83624fe0067" title=" " alt="" coords="534,5,707,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,23,518,23,518,28,487,28"/>
+</map>

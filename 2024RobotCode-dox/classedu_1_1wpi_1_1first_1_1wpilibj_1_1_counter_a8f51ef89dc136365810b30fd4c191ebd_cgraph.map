@@ -1,0 +1,8 @@
+<map id="edu.wpi.first.wpilibj.Counter.setDownSource" name="edu.wpi.first.wpilibj.Counter.setDownSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,209,91"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_analog_trigger.html#a29bab25508b790e49a5684feea4d6bd7" title=" " alt="" coords="270,5,447,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,50,254,42,255,47,210,55"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_counter.html#ae25a2af15ca0e7e1528583566028d23c" title=" " alt="" coords="257,95,460,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,86,242,92,241,97,209,91"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="311,95,309,85,317,76,333,70,358,68,385,70,401,77,400,82,384,76,358,73,334,75,320,80,314,86,316,93"/>
+</map>

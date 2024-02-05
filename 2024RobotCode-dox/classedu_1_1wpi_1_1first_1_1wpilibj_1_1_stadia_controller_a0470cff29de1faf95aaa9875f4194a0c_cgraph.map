@@ -1,0 +1,14 @@
+<map id="edu.wpi.first.wpilibj.StadiaController.getLeftTriggerButton" name="edu.wpi.first.wpilibj.StadiaController.getLeftTriggerButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,204,70"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#abdb0245e5cb7f7b92cc1060202821a2d" title=" " alt="" coords="252,29,433,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,47,236,47,236,52,204,52"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#a77f3feaa9b70759aa7e26c20bec4bec2" title=" " alt="" coords="481,29,662,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,56,466,56,466,61,433,61"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#a3d86d4b8414c05aafe18fc866d99ccab" title=" " alt="" coords="486,95,657,135"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="417,68,484,87,482,92,415,73"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="481,44,448,43,448,38,481,38"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="528,29,526,19,533,10,549,5,572,3,596,5,611,11,609,16,595,10,572,8,550,10,537,15,532,21,534,28"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#af0b067c76cbb79f54d7f475e88fcfed2" title=" " alt="" coords="710,29,892,70"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="663,47,695,47,695,52,663,52"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="758,29,756,19,763,10,778,5,801,3,826,5,841,11,838,16,824,10,801,8,779,10,766,15,761,21,763,28"/>
+</map>

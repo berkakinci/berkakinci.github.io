@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.Relay" name="edu.wpi.first.wpilibj.Relay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="152,94,322,120"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_motor_safety.html" title=" " alt="" coords="5,5,175,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,51,215,91,213,96,139,56"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="199,13,274,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,54,239,93,234,93,234,54"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="298,13,405,39"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,50,256,96,253,91,320,45"/>
+</map>

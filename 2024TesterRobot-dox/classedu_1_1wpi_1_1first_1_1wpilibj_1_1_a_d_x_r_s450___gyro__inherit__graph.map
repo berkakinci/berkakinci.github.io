@@ -1,0 +1,7 @@
+<map id="edu.wpi.first.wpilibj.ADXRS450_Gyro" name="edu.wpi.first.wpilibj.ADXRS450_Gyro">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,245,105"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="30,5,105,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,41,117,77,113,80,85,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="129,5,236,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,45,137,80,133,77,161,41"/>
+</map>

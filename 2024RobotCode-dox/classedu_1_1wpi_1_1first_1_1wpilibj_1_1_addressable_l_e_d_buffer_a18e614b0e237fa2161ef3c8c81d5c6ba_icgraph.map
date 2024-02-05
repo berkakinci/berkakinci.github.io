@@ -1,0 +1,9 @@
+<map id="edu.wpi.first.wpilibj.AddressableLEDBuffer.getGreen" name="edu.wpi.first.wpilibj.AddressableLEDBuffer.getGreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="262,71,470,111"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_addressable_l_e_d_buffer.html#a7a70cdf6a3e6c5baa7cb766d20e16e0e" title=" " alt="" coords="5,5,214,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,69,191,49,193,44,269,64"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_addressable_l_e_d_buffer.html#a0159345ce9038913db41ae0df3fb5d49" title=" " alt="" coords="5,71,214,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,94,214,94,214,88,246,88"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_addressable_l_e_d_buffer.html#a30402bc13f004215cd3b290621ffbeac" title=" " alt="" coords="5,136,214,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="269,118,193,138,191,133,268,113"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="frc.robot.Robot.autonomousInit" name="frc.robot.Robot.autonomousInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,207,39"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1smartdashboard_1_1_sendable_chooser.html#a85449e96cf4f0dc703c75013d221c5f8" title=" " alt="" coords="255,5,488,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,23,239,23,239,28,207,28"/>
+</map>

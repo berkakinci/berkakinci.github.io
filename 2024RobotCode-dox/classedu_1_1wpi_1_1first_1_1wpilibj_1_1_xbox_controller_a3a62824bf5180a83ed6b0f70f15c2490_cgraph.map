@@ -1,0 +1,10 @@
+<map id="edu.wpi.first.wpilibj.XboxController.getRightTriggerAxis" name="edu.wpi.first.wpilibj.XboxController.getRightTriggerAxis">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,201,91"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#a561e13532e9305a057a3b02cc655833c" title=" " alt="" coords="249,51,430,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,68,233,68,233,74,201,74"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_driver_station.html#af9606114345715ee1577c2b0c66a070c" title=" " alt="" coords="483,5,654,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="430,50,467,43,468,48,431,56"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1wpi_1_1first_1_1wpilibj_1_1_generic_h_i_d.html#af0b067c76cbb79f54d7f475e88fcfed2" title=" " alt="" coords="478,95,659,135"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="431,86,463,92,462,97,430,91"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="525,95,523,85,530,76,546,70,569,68,593,70,608,77,606,82,592,76,569,73,547,75,534,80,529,86,531,93"/>
+</map>
